@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shiyu Sun （世宇 孙）"
+title                    : "Shiyu Sun"
 title_separator          : "-"
 name                     : &name "Shiyu Sun"
 description              : &description "Ph.D. Student at George Mason University"
