@@ -14,7 +14,7 @@ author_profile: true
 
 * Multi-view self-supervised heterogeneous graph embedding <br>
   Jianan Zhao, Qianlong Wen, **<u>Shiyu Sun</u>**, Yanfang Ye, Chuxu Zhang <br>
-  *In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (PKDD), 2021* \[[pdf](https://link.springer.com/chapter/10.1007/978-3-030-86520-7_20))\]
+  *In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (PKDD), 2021* \[[pdf](https://link.springer.com/chapter/10.1007/978-3-030-86520-7_20)\]
 
 * Dr.Emotion: Disentangled Representation Learning for Emotion Analysis on Social Media to Improve Community Resilience in the COVID-19 Era and Beyond <br>
   Mingxuan Ju, Wei Song, **<u>Shiyu Sun</u>**, Yanfang Ye, Yujie Fan, Kenneth Loparo, Liang Zhao <br>
