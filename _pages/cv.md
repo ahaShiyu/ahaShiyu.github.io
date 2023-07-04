@@ -15,6 +15,15 @@ Education
 * M.S. in Computer Science, Case Western Reserve University, 2021
 * Ph.D in Information Technology, George Mason University, 2026 (expected)
 
+Teaching
+======
+* Mentor, High School Internship Mentor, Jun 2022 - Jan 2023
+  *Topic: Exploring Security Patch in Python
+
+* Teaching Assistant, George Mason University, Sep 2022 - May 2023
+  * Course: AIT 664 - Information: Representation, Processing and Visualization
+  * Course: AIT 724 - Data Analytics in Social Media
+  
 Experience
 ======
 * Graduate Research Assistant,
@@ -24,7 +33,5 @@ Experience
 
 * Graduate Teaching Assistant
   * George Mason University
-  * Data Analytics in Social Media
-  * Information: Representation, Processing and Visualization
   * Sep 2022 - May 2023
  
