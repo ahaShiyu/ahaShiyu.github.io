@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D. student in the Center for [Secure Information Systems (CSIS)](https://csis.gmu.edu/) at George Mason University with the supervision of [Dr. Kun Sun](https://csis.gmu.edu/ksun/). Before joining Dr. Sun's group, I obtained my master's degree in Computer Science with a concentration in Security at Case Western Reserve University. <br>
 
-My research interest primarily lies in program analysis and AI-Enhanced Software Security. I am currently working on security patch analysis and auto program repair leveraging pattern-based frameworks, graph neural networks, and large language models. My past research projects involve data mining and natural language processing.
+My research interest primarily lies in program analysis and AI-Enhanced Software Security. I am currently working on security patch analysis and auto program repair with pattern-based frameworks, graph neural networks, and large language models. My past research projects involve data mining and natural language processing.
 
 
 News
