@@ -20,7 +20,7 @@ Nothing new
 
 Selected Publications
 ======
-\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=zCt4qhgAAAAJ)\]
+\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=buNhXwsAAAAJ)\]
 
 
 Contact Me
