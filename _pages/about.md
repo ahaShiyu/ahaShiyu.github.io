@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shiyu Sun's Homepage"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,18 +12,7 @@ I'm a Ph.D. student in the Center for [Secure Information Systems (CSIS)](https:
 
 My research interest primarily lies in program analysis and AI-Enhanced Software Security. I am currently working on security patch analysis and auto program repair with pattern-based frameworks, graph neural networks, and large language models. My past research projects involve data mining and natural language processing.
 
-
-News
-======
-
-Nothing new
-
-Selected Publications
-======
-\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=buNhXwsAAAAJ)\]
-
-
-Contact Me
+Contact
 ======
 George Mason University<br>
 Research Hall, Suite 417<br>
