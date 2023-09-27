@@ -9,7 +9,7 @@ author_profile: true
 **Conference Papers**
 
 * What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check <br>
-  Yunlong Xing, Shu Wang, **<u>Shiyu Sun</u>**, Xu He, Kun Sun, and Qi Li.
+  Yunlong Xing, Shu Wang, **<u>Shiyu Sun</u>**, Xu He, Kun Sun, and Qi Li. <br>
   *In 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, 2024*.
 
 * Exploring Security Commits in Python <br>
