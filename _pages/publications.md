@@ -8,9 +8,13 @@ author_profile: true
 <!-- **Pre-prints** -->
 **Conference Papers**
 
+* What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check <br>
+  Yunlong Xing, Shu Wang, **<u>Shiyu Sun</u>**, Xu He, Kun Sun, and Qi Li.
+  *In 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, 2024*.
+
 * Exploring Security Commits in Python <br>
   **<u>Shiyu Sun</u>**, Shu Wang, Xinda Wang, Yunlong Xing, Elisa Zhang, and Kun Sun.  <br>
-  *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2023*. 
+  *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2023*. \[[pdf]([https://link.springer.com/chapter/10.1007/978-3-030-86520-7_20](https://arxiv.org/pdf/2307.11853.pdf))\]
 
 * Multi-view self-supervised heterogeneous graph embedding <br>
   Jianan Zhao, Qianlong Wen, **<u>Shiyu Sun</u>**, Yanfang Ye, Chuxu Zhang <br>
