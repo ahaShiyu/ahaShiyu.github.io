@@ -10,11 +10,12 @@ author_profile: true
 
 * What IF Is Not Enough? Fixing Null Pointer Dereference With Contextual Check <br>
   Yunlong Xing, Shu Wang, **<u>Shiyu Sun</u>**, Xu He, Kun Sun, and Qi Li. <br>
-  *In 19th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2024*.
+  *In 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, 2024*.
+  
   
 * BinGo: Identifying Security Patches in Binary Code with Graph Representation Learning <br>
   Xu He, Shu Wang, Pengbin Feng, Xinda Wang, **<u>Shiyu Sun</u>**, Qi Li, Kun Sun. <br>
-  *In 33rd USENIX Security Symposium (USENIX Security), Philadelphia, PA, 2024*.
+  *In 19th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2024*.
 
 * Exploring Security Commits in Python <br>
   **<u>Shiyu Sun</u>**, Shu Wang, Xinda Wang, Yunlong Xing, Elisa Zhang, and Kun Sun.  <br>
