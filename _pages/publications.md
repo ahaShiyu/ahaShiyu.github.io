@@ -19,7 +19,7 @@ author_profile: true
 
 * Exploring Security Commits in Python <br>
   **<u>Shiyu Sun</u>**, Shu Wang, Xinda Wang, Yunlong Xing, Elisa Zhang, and Kun Sun.  <br>
-  *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2023*. \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10336269))\] \[[dataset](https://huggingface.co/datasets/sunlab/PySecDB)\]
+  *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2023*. \[[pdf](https://www.computer.org/csdl/proceedings-article/icsme/2023/278300a171/1SN6okIhf0c)\] \[[dataset](https://huggingface.co/datasets/sunlab/PySecDB)\]
 
 * Multi-view self-supervised heterogeneous graph embedding <br>
   Jianan Zhao, Qianlong Wen, **<u>Shiyu Sun</u>**, Yanfang Ye, Chuxu Zhang <br>
